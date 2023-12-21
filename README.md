@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">BANAO TASK-1</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p id="description">This project was made by me solely by using Tech stacks like HTMLCSS JAVASCRIPTREACT JS and Bootstrap. This React application is built using create-react-app.</p>
 
-## Available Scripts
+<h2>🚀 Demo</h2>
 
-In the project directory, you can run:
+[https://banao-task-1-sigma.vercel.app/](https://banao-task-1-sigma.vercel.app/)
 
-### `npm start`
+<h2>Project Screenshots:</h2>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![Screenshot 2023-12-21 185821](https://github.com/Shivam250702/BanaoTask-1/assets/103785990/ed5572d1-80f4-4256-85b9-eb4af0999b83)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+![Screenshot 2023-12-21 185922](https://github.com/Shivam250702/BanaoTask-1/assets/103785990/0d8dfdc1-4554-43b1-8c28-e61729df0dc0)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+![Screenshot 2023-12-21 185943](https://github.com/Shivam250702/BanaoTask-1/assets/103785990/eda487e6-6b2f-46a1-8de5-8e76a1c3397f)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  
+  
+<h2>🧐 Features</h2>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Here're some of the project's best features:
 
-### `npm run eject`
+*   Built on Bootstrap V5
+*   Mobile and Desktop Responsive
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+<h2>🛠️ Installation Steps:</h2>
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+<p>1. Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.</p>
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+npm start
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<p>2. Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance. The build is minified and the filenames include the hashes. Your app is ready to be deployed! See the section about deployment for more information.</p>
 
-## Learn More
+```
+npm run build
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<p>3. Note: this is a one-way operation. Once you eject you can’t go back! If you aren’t satisfied with the build tool and configuration choices you can eject at any time.</p>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```
+npm run eject
+```
 
-### Code Splitting
+<h2>🍰 Contribution Guidelines:</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Anyone can freely contribute to the project by making a fork of the project doing the necessary changes and then pull request on the Repository.
 
-### Analyzing the Bundle Size
+  
+  
+<h2>💻 Built with</h2>
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Technologies used in the project:
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+*   html
+*   css
+*   js
+*   reactjs
+*   bootstrap
